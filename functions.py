@@ -1,5 +1,9 @@
 import pickle
 from shapely.geometry import Polygon
+import kawarizmi
+
+kawarizmi.parking_space_counter(video_path="./Media/BLK-HDPTZ12_Security_Camera_Parkng_Lot_Surveillance_Video(1080p).mp4")
+
 
 
 def find_polygon_center(points):
