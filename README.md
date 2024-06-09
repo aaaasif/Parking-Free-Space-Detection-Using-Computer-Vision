@@ -43,4 +43,4 @@ if you don't put any path. the code automatically chooses your camera source.
 
 ## Contributors
 
-- [Shukur Alam](https://github.com/shukur-alom)
+- [Abdullah Al asif](https://github.com/aaaasif)
